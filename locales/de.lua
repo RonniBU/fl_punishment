@@ -4,16 +4,16 @@ Locales.en = {
   users_not_found = "Benutzer nicht gefunden!",
   user_not_found = "Benutzer nicht gefunden!",
   loading_error = "Spieler laden fehlgeschlagen!",
-  invalid_syntax = "Invalid Syntax!",
-  player_in_jail = "Player is already in admin jail!",
-  player_in_comserv = "Player is already in community service!",
-  work_allocated = "Work allocated to the player. Reason: %s",
-  assigned_you = "%s has assigned you %s community service assignment.",
-  reason = "Reason: %s",
+  invalid_syntax = "Ungültiger Satzbau!",
+  player_in_jail = "Spieler ist bereits im Admin Knast!",
+  player_in_comserv = "Spieler ist bereits im Community server!",
+  work_allocated = "Dem Spieler zugewiesene Arbeit. Grund: %s",
+  assigned_you = "%s hat Ihnen %s gemeinnützige Arbeit zugewiesen.".",
+  reason = "Grund: %s",
   comserv_log = [[
-    **%s** allocated **%s** *(%s)* to comunity service
-    Count: **%s**
-    Reason: **%s**
+    **%s** hat **%s** *(%s)* dem Gemeinschaftsdienst zugeteilt
+    Anzahl: **%s**
+    Gründe dafür**
   ]],
   player_not_in_comserv = "Player not in community service.",
   removed_from_comserv = "You remove player from community service.",
@@ -29,16 +29,16 @@ Locales.en = {
   ]],
   infinity = "Infinity",
   ban_message = [[
-    You have been banned from the server
+    Du wurdest vom diesem server gebannt
     Admin: %s
-    Days: %s
-    Reason: %s
+    Tage: %s
+    Grund: %s
   ]],
   invalid_days = "Days value invalid!",
-  no_reason = "No reason",
-  you_banned = "You banned the player, %s",
-  days = "Days: %s",
-  reason = "Reason: %s",
+  no_reason = "Kein Grund",
+  you_banned = "Du wurdest gebannt, %s",
+  days = "Tage: %s",
+  reason = "Grund: %s",
   checking_ban = "Checking ban status...",
   you_banned_from_server = [[
     \nYou have been banned from the server
